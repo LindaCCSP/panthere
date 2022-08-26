@@ -710,6 +710,17 @@ h2 {
   font-size: 22px;
   line-height: 1.4em;
 }
+.title-agence {
+  font-size: 22px;
+  font-family: "helvetica";
+  font-weight: 600;
+  color: #575757;
+}
+
+.paragraphe-descriptif {
+  font-size: 20px;
+  font-weight: 600;
+}
 
 h3 {
   font-size: 15px;
