@@ -713,13 +713,13 @@ h2 {
 .title-agence {
   font-size: 22px;
   font-family: "helvetica";
-  font-weight: 600;
+  font-weight: 500;
   color: #575757;
 }
 
 .paragraphe-descriptif {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 h3 {
@@ -831,11 +831,11 @@ h4 {
 }
 
 .bg-banniere {
-  background-image: url("images-min/bureau-de-travail.jpg");
+  background-image: url("img/agence-la-panthere.jpg");
 }
 
 .bg-presentation {
-  background-image: url("images-min/main-écrivant-sur-post-it.jpg");
+  background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
