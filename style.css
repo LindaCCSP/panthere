@@ -718,9 +718,13 @@ h2 {
   font-weight: 500;
   color: #575757;
 }
-.paragraphe-descriptif {
+.citation {
   font-size: 20px;
   font-weight: 500;
+}
+.auteur {
+  font-size: 20px;
+  font-weight: 200;
 }
 .realisation {
   font-size: 22px;
