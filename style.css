@@ -679,7 +679,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -710,22 +710,30 @@ h2 {
   font-size: 22px;
   line-height: 1.4em;
 }
+
+/* Ajout (LB) */
 .title-agence {
   font-size: 22px;
   font-family: "helvetica";
   font-weight: 500;
   color: #575757;
 }
-
 .paragraphe-descriptif {
   font-size: 20px;
   font-weight: 500;
 }
-
 .realisation {
   font-size: 22px;
   font-weight: 500;
 }
+.form-group {
+  margin-bottom: 10px;
+}
+form input {
+  width: 177px;
+  height: 21px;
+}
+/* Fin ajout (LB) */
 
 h3 {
   font-size: 15px;
