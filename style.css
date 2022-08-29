@@ -800,18 +800,30 @@ h4 {
   background-color: #364577;
 }
 
-.bgc-atomic-tangerine {
+/* .bgc-atomic-tangerine {
   background-color: #f3976c;
 }
 
 .tc-white {
   color: #f3976c !important;
+} */
+/* essai */
+.bgc-atomic-tangerine {
+  background-color: #cb4b10;
 }
 
-.btn-atomic-tangerine {
-  background: #f3976c;
+.tc-white {
   color: #ffffff !important;
 }
+/* fin essai */
+.btn-atomic-tangerine {
+  background: #cb4b10;
+  color: #ffffff !important;
+}
+/* .btn-atomic-tangerine {
+  background: #f3976c;
+  color: #ffffff !important;
+} */
 
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
