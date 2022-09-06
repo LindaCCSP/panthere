@@ -477,7 +477,7 @@ button {
 }
 
 .icon-md {
-  font-size: 30px !important;
+  font-size: 30px;
 }
 
 .icon-lg {
@@ -800,6 +800,7 @@ h4 {
   background-color: #364577;
 }
 /* (LB) changement */
+
 .bgc-atomic-tangerine {
   background-color: #cb4b10;
 }
