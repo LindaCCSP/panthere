@@ -703,7 +703,7 @@ p {
 
 .cta-hero:focus {
   background-color: #873510fd;
-  border: groove 3px rgb(203, 75, 16);
+  border: solid 3px rgb(203, 75, 16);
 }
 
 .social {
